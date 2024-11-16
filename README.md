@@ -17,4 +17,4 @@ Designed for fashion stores, it features:
 ### Getting Started  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/cartzilla-ecommerce.git
+   git clone https://github.com/Jonathan-Kalu/Cartzilla-Website-Template.git
