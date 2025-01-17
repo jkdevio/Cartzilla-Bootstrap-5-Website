@@ -7,7 +7,9 @@ Designed for fashion stores, it features:
 - Seamless user experience  
 - Product catalogs  
 - Shopping carts  
-- Fully customizable components  
+- Fully customizable components
+- - Fully customizable components
+  - - Fully customizable components  
 
 ### Features  
 - **Responsive Design**: Looks great on all devices.  
